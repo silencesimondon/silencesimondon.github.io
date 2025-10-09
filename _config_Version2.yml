@@ -1,0 +1,10 @@
+title: Silence Simondon
+description: "Personal site"
+url: "https://silencesimondon.github.io"
+baseurl: "" # keep empty for user/organization sites
+theme: minima
+markdown: kramdown
+permalink: /:title/
+paginate: 5
+exclude:
+  - "node_modules"
